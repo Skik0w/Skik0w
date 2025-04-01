@@ -7,10 +7,10 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>](https://www.java.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/>](https://spring.io/projects/spring-boot)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32"/>](https://angular.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32"/>](https://www.tensorflow.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/>](https://www.docker.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>](https://www.postgresql.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32"/>](https://fastapi.tiangolo.com/)
+
 
 
 
