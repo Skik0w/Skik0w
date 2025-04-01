@@ -1,1 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skik0w&layout=compact&theme=radical)
+![Moje statystyki](https://github-readme-stats.vercel.app/api?username=Skik0w&exclude_repo=Systemy-Wbudowane)
+
