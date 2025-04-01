@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skik0w&exclude_repo=Systemy-Wbudowane&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Skik0w&theme=tokyonight)](https://git.io/streak-stats)
+![Metrics](https://metrics.lecoq.io/Skik0w?template=classic&isocalendar=1&languages=1&followup=1)
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/>](https://www.typescriptlang.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>](https://www.python.org/)
