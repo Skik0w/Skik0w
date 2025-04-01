@@ -1,13 +1,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skik0w&exclude_repo=Systemy-Wbudowane&layout=compact&theme=radical)
 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
 
 
 
