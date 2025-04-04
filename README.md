@@ -1,4 +1,20 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Skik0w&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## 👋 About Me
+
+Computer Science student (3rd year) with interest in software development and modern technologies.
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java • Python • TypeScript
+
+**Web Development:**  
+HTML • CSS • Angular • Node.js • Spring Boot
+
+**Databases:**  
+MySQL • PostgreSQL
+
+**Tools & Platforms:**  
+Git • Docker • Postman • VirtualBox
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skik0w&exclude_repo=Systemy-Wbudowane&layout=compact&theme=radical)
 
