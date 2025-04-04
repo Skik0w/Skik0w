@@ -1,8 +1,8 @@
-## 👋 About Me
+## About Me
 
 Computer Science student (3rd year) with interest in software development and modern technologies.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 Java • Python • TypeScript
