@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a third-year Computer Science student with a passion for software development and modern tech. I'm curious about new technologies and how they can be applied in practice, and I’m constantly looking for ways to learn and grow as a developer. Right now, I'm working with Spring Boot and Angular, getting hands-on experience building full-stack applications.
+I'm Computer Science student with a passion for software development and modern tech. I'm curious about new technologies and how they can be applied in practice, and I’m constantly looking for ways to learn and grow as a developer. Right now, I'm working with Spring Boot and Angular, getting hands-on experience building full-stack applications.
 
 ## Tech Stack
 
