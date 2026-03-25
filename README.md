@@ -16,7 +16,7 @@ MySQL • PostgreSQL
 **Tools & Platforms:**  
 Git • Docker • Postman • VirtualBox
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skik0w&layout=compact&theme=radical&exclude_repo=PoprawionePytania)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skik0w&layout=compact&theme=radical&langs_count=12&exclude_repo=PoprawionePytania)
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32"/>](https://angular.io/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>](https://www.java.com/)
